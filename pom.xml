@@ -49,7 +49,7 @@
 
   <properties>
     <changelist>999999-SNAPSHOT</changelist>
-    <gitHubRepo>jenkinsci/schedule-build-plugin</gitHubRepo>
+    <gitHubRepo>mio4kon/schedule-build-plugin</gitHubRepo>
     <jenkins.version>2.361.4</jenkins.version>
     <spotbugs.effort>Max</spotbugs.effort>
     <spotbugs.threshold>Low</spotbugs.threshold>
