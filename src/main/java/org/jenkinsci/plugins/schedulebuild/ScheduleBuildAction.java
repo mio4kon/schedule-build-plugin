@@ -33,7 +33,7 @@ public class ScheduleBuildAction implements Action, StaplerProxy, IconSpec {
     private final Job<?, ?> target;
     private static final long SECURITY_MARGIN = 120 * 1000;
     private static final long ONE_DAY = 24 * 3600 * 1000;
-
+    //log
     private long quietperiod;
 
     public ScheduleBuildAction(final Job<?, ?> target) {
